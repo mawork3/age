@@ -1,4 +1,4 @@
-module filippo.io/age
+module mawork3.io/age
 
 go 1.17
 
