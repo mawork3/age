@@ -1,4 +1,4 @@
-module fillipo.io/age
+module filippo.io/age
 
 go 1.17
 
