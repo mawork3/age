@@ -20,6 +20,7 @@ import (
 )
 
 const x25519Label = "age-encryption.org/v1/X25519"
+const sankrant_label = "sankrant"
 
 // X25519Recipient is the standard age public key. Messages encrypted to this
 // recipient can be decrypted with the corresponding X25519Identity.
