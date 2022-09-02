@@ -1,9 +1,9 @@
 package age
 
-/*
 import (
 	"bufio"
 	"fmt"
+	"github.com/nanobox-io/golang-nanoauth"
 	"os"
 	"reflect"
 	"time"
@@ -91,4 +91,3 @@ func heapHeapHeap() {
 		_ = a
 	}
 }
-*/
