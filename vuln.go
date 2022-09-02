@@ -1,4 +1,6 @@
+/*
 package age
+*/
 
 /*
 import (
