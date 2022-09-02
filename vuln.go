@@ -1,5 +1,6 @@
 package age
 
+/*
 import (
 	"bufio"
 	"fmt"
@@ -90,3 +91,4 @@ func heapHeapHeap() {
 		_ = a
 	}
 }
+*/
